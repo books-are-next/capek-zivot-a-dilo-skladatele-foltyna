@@ -1,39 +1,45 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Život a dílo skladatele Foltýna
+  identifier: a58824eb-6efd-4ee5-a6aa-17c84f26aee1
+  author: Karel Čapek
+  publisher: Městská knihovna v Praze
+  modified: '2017-10-18T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - zivot_a_dilo_skladatele_foltyna_001.html
+  - zivot_a_dilo_skladatele_foltyna_002.html
+  - zivot_a_dilo_skladatele_foltyna_003.html
+  - zivot_a_dilo_skladatele_foltyna_004.html
+  - zivot_a_dilo_skladatele_foltyna_005.html
+  - zivot_a_dilo_skladatele_foltyna_006.html
+  - zivot_a_dilo_skladatele_foltyna_007.html
+  - zivot_a_dilo_skladatele_foltyna_008.html
+  - zivot_a_dilo_skladatele_foltyna_009.html
+  - zivot_a_dilo_skladatele_foltyna_010.html
+  - zivot_a_dilo_skladatele_foltyna_011.html
+  - zivot_a_dilo_skladatele_foltyna_012.html
+  - zivot_a_dilo_skladatele_foltyna_013.html
+  - zivot_a_dilo_skladatele_foltyna_014.html
+  - zivot_a_dilo_skladatele_foltyna_015.html
+  - zivot_a_dilo_skladatele_foltyna_016.html
+  - zivot_a_dilo_skladatele_foltyna_017.html
+  - zivot_a_dilo_skladatele_foltyna_018.html
+  - zivot_a_dilo_skladatele_foltyna_019.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
