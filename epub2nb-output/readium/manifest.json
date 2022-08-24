@@ -1,0 +1,184 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Život a dílo skladatele Foltýna",
+    "identifier": "a58824eb-6efd-4ee5-a6aa-17c84f26aee1",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2017-10-18T00:00:00.000Z",
+    "published": "2018-01-19T00:00:00.000Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_010.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_011.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_012.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_013.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_014.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_015.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_016.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_017.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_018.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_019.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_005.htm"
+    },
+    {
+      "title": "I. Okresní soudce Šimek",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_006.htm"
+    },
+    {
+      "title": "II. Paní Jirka Hudcová",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_007.htm"
+    },
+    {
+      "title": "III. Dr. V. B.",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_008.htm"
+    },
+    {
+      "title": "IV. Paní Karla Foltýnová",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_009.htm"
+    },
+    {
+      "title": "V. Univ. prof. Dr. Strauss",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_010.htm"
+    },
+    {
+      "title": "VI. Dr. J. Petrů",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_011.htm"
+    },
+    {
+      "title": "VII. Váša Ambrož",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_012.htm"
+    },
+    {
+      "title": "VIII. * * *",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_013.htm"
+    },
+    {
+      "title": "IX. Jan Trojan",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_014.htm"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_015.htm"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_016.htm"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_017.htm"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/zivot_a_dilo_skladatele_foltyna_018.htm"
+    }
+  ]
+}
