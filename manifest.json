@@ -1,0 +1,361 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Život a dílo skladatele Foltýna",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-0fe2bb5",
+  "revision": "0fe2bb5",
+  "readingOrder": [
+    "promo.html",
+    "zivot_a_dilo_skladatele_foltyna_005.html",
+    "zivot_a_dilo_skladatele_foltyna_006.html",
+    "zivot_a_dilo_skladatele_foltyna_007.html",
+    "zivot_a_dilo_skladatele_foltyna_008.html",
+    "zivot_a_dilo_skladatele_foltyna_009.html",
+    "zivot_a_dilo_skladatele_foltyna_010.html",
+    "zivot_a_dilo_skladatele_foltyna_011.html",
+    "zivot_a_dilo_skladatele_foltyna_012.html",
+    "zivot_a_dilo_skladatele_foltyna_013.html",
+    "zivot_a_dilo_skladatele_foltyna_014.html",
+    "zivot_a_dilo_skladatele_foltyna_015.html",
+    "zivot_a_dilo_skladatele_foltyna_016.html",
+    "zivot_a_dilo_skladatele_foltyna_017.html",
+    "zivot_a_dilo_skladatele_foltyna_018.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Sep 12 2022 13:49:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1662990575793
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zivot_a_dilo_skladatele_foltyna_005.html",
+      "toc": []
+    },
+    {
+      "title": "Předmluva",
+      "file": "zivot_a_dilo_skladatele_foltyna_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. Okresní soudce Šimek Přítel z mládí",
+      "file": "zivot_a_dilo_skladatele_foltyna_006.html",
+      "words": 3411,
+      "chars": 19813,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zivot_a_dilo_skladatele_foltyna_005.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I. Okresní soudce Šimek Přítel z mládí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. Paní Jirka Hudcová Ariel",
+      "file": "zivot_a_dilo_skladatele_foltyna_007.html",
+      "words": 3011,
+      "chars": 16918,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zivot_a_dilo_skladatele_foltyna_006.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II. Paní Jirka Hudcová Ariel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. Dr. V. B. Na univerzitě",
+      "file": "zivot_a_dilo_skladatele_foltyna_008.html",
+      "words": 1554,
+      "chars": 9142,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zivot_a_dilo_skladatele_foltyna_007.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III. Dr. V. B. Na univerzitě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. Paní Karla Foltýnová Můj manžel[11]",
+      "file": "zivot_a_dilo_skladatele_foltyna_009.html",
+      "words": 5670,
+      "chars": 31060,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zivot_a_dilo_skladatele_foltyna_008.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV. Paní Karla Foltýnová Můj manžel[11]",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. Univ. prof. Dr. Strauss Abélard a Heloisa",
+      "file": "zivot_a_dilo_skladatele_foltyna_010.html",
+      "words": 454,
+      "chars": 2804,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zivot_a_dilo_skladatele_foltyna_009.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V. Univ. prof. Dr. Strauss Abélard a Heloisa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. Dr. J. Petrů Text k Juditě",
+      "file": "zivot_a_dilo_skladatele_foltyna_011.html",
+      "words": 1940,
+      "chars": 11281,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zivot_a_dilo_skladatele_foltyna_010.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI. Dr. J. Petrů Text k Juditě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. Váša Ambrož Mecenáš",
+      "file": "zivot_a_dilo_skladatele_foltyna_012.html",
+      "words": 3434,
+      "chars": 20330,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zivot_a_dilo_skladatele_foltyna_011.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII. Váša Ambrož Mecenáš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. * * * Dvě poznámky",
+      "file": "zivot_a_dilo_skladatele_foltyna_013.html",
+      "words": 1972,
+      "chars": 11754,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zivot_a_dilo_skladatele_foltyna_012.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII. * * * Dvě poznámky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. Jan Trojan Instrumentace Judity",
+      "file": "zivot_a_dilo_skladatele_foltyna_014.html",
+      "words": 2615,
+      "chars": 14956,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zivot_a_dilo_skladatele_foltyna_013.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX. Jan Trojan Instrumentace Judity",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "zivot_a_dilo_skladatele_foltyna_015.html",
+      "words": 77,
+      "chars": 606,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zivot_a_dilo_skladatele_foltyna_014.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "file": "zivot_a_dilo_skladatele_foltyna_016.html",
+      "words": 293,
+      "chars": 2026,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zivot_a_dilo_skladatele_foltyna_015.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "file": "zivot_a_dilo_skladatele_foltyna_017.html",
+      "words": 233,
+      "chars": 1155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zivot_a_dilo_skladatele_foltyna_016.html",
+      "next": "zivot_a_dilo_skladatele_foltyna_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První vydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "file": "zivot_a_dilo_skladatele_foltyna_018.html",
+      "words": 295,
+      "chars": 1898,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zivot_a_dilo_skladatele_foltyna_017.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 138,
+      "chars": 917,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "zivot_a_dilo_skladatele_foltyna_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 25247,
+      "chars": 145644,
+      "ideas": 531
+    },
+    "chapters": {
+      "words": 25100,
+      "chars": 144674,
+      "ideas": 511
+    }
+  }
+}

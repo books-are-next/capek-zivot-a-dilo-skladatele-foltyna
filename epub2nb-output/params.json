@@ -1,11 +1,15 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Život a dílo skladatele Foltýna",
       "identifier": "a58824eb-6efd-4ee5-a6aa-17c84f26aee1",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2017-10-18T00:00:00.000Z"
+      "modified": "2017-10-18T00:00:00.000Z",
+      "contentType": "prose",
+      "publisherShort": "mkp",
+      "edition": "Beletrie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,50 +36,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_001.md",
             "xhtml": "zivot_a_dilo_skladatele_foltyna_001.htm",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_002.md",
             "xhtml": "zivot_a_dilo_skladatele_foltyna_002.htm",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_003.md",
             "xhtml": "zivot_a_dilo_skladatele_foltyna_003.htm",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_004.md",
             "xhtml": "zivot_a_dilo_skladatele_foltyna_004.htm",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_005.md",
@@ -86,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_006.md",
@@ -97,7 +108,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "I. Okresní soudce Šimek",
+            "subtitle": "Přítel z mládí"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_007.md",
@@ -108,7 +122,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "II. Paní Jirka Hudcová",
+            "subtitle": "Ariel"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_008.md",
@@ -119,7 +136,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "III. Dr. V. B.",
+            "subtitle": "Na univerzitě"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_009.md",
@@ -130,7 +150,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IV. Paní Karla Foltýnová",
+            "subtitle": "Můj manžel"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_010.md",
@@ -141,7 +164,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V. Univ. prof. Dr. Strauss",
+            "subtitle": "Abélard a Heloisa"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_011.md",
@@ -152,7 +178,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VI. Dr. J. Petrů",
+            "subtitle": "Text k Juditě"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_012.md",
@@ -163,7 +192,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VII. Váša Ambrož",
+            "subtitle": "Mecenáš"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_013.md",
@@ -174,7 +206,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VIII. * * *",
+            "subtitle": "Dvě poznámky"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_014.md",
@@ -185,7 +220,10 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IX. Jan Trojan",
+            "subtitle": "Instrumentace Judity"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_015.md",
@@ -196,7 +234,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_016.md",
@@ -207,7 +247,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Život a doba spisovatele Karla Čapka v datech"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_017.md",
@@ -218,7 +260,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_018.md",
@@ -229,18 +273,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "zivot_a_dilo_skladatele_foltyna_019.md",
             "xhtml": "zivot_a_dilo_skladatele_foltyna_019.htm",
             "id": 18,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -460,6 +507,6 @@
       "user": "books-are-next",
       "repo": "capek-zivot-a-dilo-skladatele-foltyna"
     },
-    "generatedAt": 1661317120119
+    "generatedAt": 1662990462715
   }
 }
