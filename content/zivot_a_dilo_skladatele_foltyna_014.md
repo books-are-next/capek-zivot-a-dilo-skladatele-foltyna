@@ -15,7 +15,7 @@ Omlouval se, že to tak nemyslel, že si jen uvědomuje, jak palčivě mu chybí
 
 „Jenže mně záleží právě na vaší pomoci,“ řekl. „O vás se tvrdí, že jste nejpřísnější a nejasketičtější hudebník. Mně chybí zrovna ta veliká kázeň,“ řekl. „Mám strach, aby můj hudební projev nebyl příliš anarchický. Přiznám se vám, že jsem tak trochu barbar. Vím,“ řekl, „že mám až nadbytek tvořivé síly a fantazie; ale nejsem si jist, je-li v mém díle ten pravý a čistý řád.“
 
-„To nejde, pane Foltene,“ řekl jsem mu. „Ten musíte mít v sobě. Víte co, já se na vaši operu podívám; ale nemohu vás naučit něčemu, co ve vás není. Lituju, prosím, ale to naprosto nemohu. Taková biblická látka jako Judita,“ řekl jsem, „to je hrozně vážná věc, pane Foltene. I když je to apokryf[\[23\]](./resources/undefined). Já jsem se pokoušel o žalmy, pane, a vím, co to je. Těžké. Ukrutně těžké.“
+„To nejde, pane Foltene,“ řekl jsem mu. „Ten musíte mít v sobě. Víte co, já se na vaši operu podívám; ale nemohu vás naučit něčemu, co ve vás není. Lituju, prosím, ale to naprosto nemohu. Taková biblická látka jako Judita,“ řekl jsem, „to je hrozně vážná věc, pane Foltene. I když je to apokryf[^23]. Já jsem se pokoušel o žalmy, pane, a vím, co to je. Těžké. Ukrutně těžké.“
 
 Smluvili jsme si, že k němu zajdu a že mi přehraje hlavní pasáže ze své Judity; a pak že se domluvíme. Přišel jsem ve smluvenou dobu; pan Folten mě srdečně uvítal a začal hovořit o celkové koncepci své Judity. „To ne, prosím,“ řekl jsem mu, „nejdřív děj, a pak to hned račte přehrát. Kousek za kouskem, pane Foltene. Řádek za řádkem. Co není v řádkách, není v koncepci.“
 
