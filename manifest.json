@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-0fe2bb5",
-  "revision": "0fe2bb5",
+  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-dd2318b",
+  "revision": "dd2318b",
   "readingOrder": [
     "promo.html",
     "zivot_a_dilo_skladatele_foltyna_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Sep 12 2022 13:49:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1662990575793
+    "date": "Thu Sep 29 2022 21:39:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487574485
   },
   "documents": [
     {
@@ -69,7 +69,7 @@
       "title": "I. Okresní soudce Šimek Přítel z mládí",
       "file": "zivot_a_dilo_skladatele_foltyna_006.html",
       "words": 3411,
-      "chars": 19813,
+      "chars": 19819,
       "ideas": 71,
       "role": "chapter",
       "order": 2,
@@ -89,7 +89,7 @@
       "title": "II. Paní Jirka Hudcová Ariel",
       "file": "zivot_a_dilo_skladatele_foltyna_007.html",
       "words": 3011,
-      "chars": 16918,
+      "chars": 16919,
       "ideas": 50,
       "role": "chapter",
       "order": 3,
@@ -109,7 +109,7 @@
       "title": "III. Dr. V. B. Na univerzitě",
       "file": "zivot_a_dilo_skladatele_foltyna_008.html",
       "words": 1554,
-      "chars": 9142,
+      "chars": 9145,
       "ideas": 19,
       "role": "chapter",
       "order": 4,
@@ -149,7 +149,7 @@
       "title": "V. Univ. prof. Dr. Strauss Abélard a Heloisa",
       "file": "zivot_a_dilo_skladatele_foltyna_010.html",
       "words": 454,
-      "chars": 2804,
+      "chars": 2806,
       "ideas": 4,
       "role": "chapter",
       "order": 6,
@@ -169,7 +169,7 @@
       "title": "VI. Dr. J. Petrů Text k Juditě",
       "file": "zivot_a_dilo_skladatele_foltyna_011.html",
       "words": 1940,
-      "chars": 11281,
+      "chars": 11284,
       "ideas": 43,
       "role": "chapter",
       "order": 7,
@@ -189,7 +189,7 @@
       "title": "VII. Váša Ambrož Mecenáš",
       "file": "zivot_a_dilo_skladatele_foltyna_012.html",
       "words": 3434,
-      "chars": 20330,
+      "chars": 20335,
       "ideas": 58,
       "role": "chapter",
       "order": 8,
@@ -209,7 +209,7 @@
       "title": "VIII. * * * Dvě poznámky",
       "file": "zivot_a_dilo_skladatele_foltyna_013.html",
       "words": 1972,
-      "chars": 11754,
+      "chars": 11755,
       "ideas": 34,
       "role": "chapter",
       "order": 9,
@@ -229,7 +229,7 @@
       "title": "IX. Jan Trojan Instrumentace Judity",
       "file": "zivot_a_dilo_skladatele_foltyna_014.html",
       "words": 2615,
-      "chars": 14956,
+      "chars": 14957,
       "ideas": 39,
       "role": "chapter",
       "order": 10,
@@ -309,7 +309,7 @@
       "title": "Poznámky pod čarou",
       "file": "zivot_a_dilo_skladatele_foltyna_018.html",
       "words": 295,
-      "chars": 1898,
+      "chars": 1921,
       "ideas": 24,
       "role": "chapter",
       "order": 14,
@@ -349,12 +349,12 @@
   "totals": {
     "all": {
       "words": 25247,
-      "chars": 145644,
+      "chars": 145689,
       "ideas": 531
     },
     "chapters": {
       "words": 25100,
-      "chars": 144674,
+      "chars": 144719,
       "ideas": 511
     }
   }
