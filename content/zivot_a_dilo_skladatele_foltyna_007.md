@@ -104,3 +104,49 @@ Poprvé v životě jsem si nemohla vymyslet nic, čím bych před kamarádkou re
 Zdá se mi teď, že jsem toho napovídala víc o sobě než o panu Foltýnovi. Ale asi to jinak nejde; byla jsem tehdy mládě, a mladí lidé se zajímají víc o sebe než o kohokoliv druhého; druzí lidé jsou jim spíš jen záminkami, na kterých si uvědomují svůj osobní život. Proto si mladí lidé příliš nevybírají, s kým se stýkají; je to pro ně spíš věc náhody a příležitosti než skutečné volby. Dnes si myslím, že jsem se k panu Foltýnovi opravdu nehodila: on byl jistě umělec, nevšední a básnická povaha ve svých přednostech i slabostech; byl jemnější, hlubší a citovější než já, obyčejné a povrchní děvče. Měl asi pravdu, že jsem měšťačka; dnes jsem s tím spokojena a je mi skoro k smíchu, že mě to tehdy tak bolelo. Každý mladý člověk si o sobě myslí bůhvíco. Snad i to, co mě na něm instinktivně zaráželo, to, že byl, jak by řekla má dcera, tak „hrrrozně errrotický“, patřilo k tomu jeho exaltovanému a uměleckému založení; ale když si vzpomenu, jak byl neobratný a směšný, když mě chtěl třeba jen políbit, myslím si, holka, ten nebyl tenkrát v tom ohledu o nic zkušenější nebo dospělejší nežli ty; asi ti chtěl imponovat tím, že se tvářil jako bůhvíjaký svůdce a hříšník. Dnes by ti třeba říkal, že řídí závodní auto nebo má podíl na nějaké podzemní politické akci. Před dvaceti lety se víc drželo na literaturu a podobné věci. Doby se mění, ale mládí se vždycky musí nějak honosit a nadýmat, třeba to bylo v každé generaci něčím opačným.
 
 </section>
+
+[^1]: Salup (franc.) – velký šátek. _Pozn. red._
+
+[^2]: Boióťané, Fajákové – podle Homérovy _Odyssey_ obyvatelé bájných krajin, jimiž Řekové pohrdali. _Pozn. red._
+
+[^3]: Šalabastr (maď.) – tahák. _Pozn. red._
+
+[^4]: Misera plebs (lat.) – chudina, nevzdělaný lid. _Pozn. red._
+
+[^5]: Myrmidoni – bájný starořecký kmen, který odvozoval svůj původ od mravenců, přeneseně je Myrmidon člověk, který slepě vykonává příkazy. _Pozn. red._
+
+[^6]: Ad audiendum verbum (lat.) – k výslechu. _Pozn. red._
+
+[^7]: Jan Malát, čes. hudební skladatel a pedagog (1843–1915), mj. autor metodiky hry na klavír a housle. _Pozn. red._
+
+[^8]: Sufizantní (fr.) – samolibý, ješitný. _Pozn. red._
+
+[^9]: Infinitezimální (lat.) – nekonečně malý. _Pozn. red._
+
+[^10]: Frenezie (řec.) – bouřlivé nadšení. _Pozn. red._
+
+[^11]: Zapsáno podle ústního sdělení.
+
+[^12]: Středověký nominalismus – filozofický směr, který tvrdí, že obecným pojmům nic skutečného neodpovídá, jsou to jen výtvory lidského myšlení, pouhá jména (z lat. nomen = jméno). _Pozn. red._
+
+[^13]: Dopisy Abaelarda a Heloisy – dopisy mapující milostný příběh významného filozofa středověku Pierra Abélarda a jeho žačky Heloisy._Pozn. red._
+
+[^14]: Sans-façon …, pas de chichi (fr.) – nenuceně, bez upejpání. _Pozn. red._
+
+[^15]: Gesamtkunstwerk (něm.) – dílo, v němž je spojeno současně více druhů umění (např. hudba, tanec, poezie, architektura…), zde v ironickém slova smyslu dílo, které tvořilo více lidí. _Pozn. red._
+
+[^16]: Marie Brizard – druh likéru. _Pozn. red._
+
+[^17]: Kniks (něm.) – pukrle. _Pozn. red._
+
+[^18]: Mittenwaldky – housle vyrobené v bavorském Mittenwaldu. _Pozn. red._
+
+[^19]: Ostinato (ital.) – opakování tématu v jednom hlasu. _Pozn. red._
+
+[^20]: Fandango – tradiční španělský tanec. _Pozn. red._
+
+[^21]: Cantus firmus (lat.) – zde chorál. _Pozn. red._
+
+[^22]: Rosenkavalier – opera Richarda Strausse (Růžový kavalír). _Pozn. red._
+
+[^23]: Apokryfy (řec.) – spisy, které církev nepojímá do kánonu biblických textů; podvržené, nepůvodní dílo. _Pozn. red._
