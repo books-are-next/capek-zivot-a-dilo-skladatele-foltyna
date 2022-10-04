@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-cbedb02",
-  "revision": "cbedb02",
+  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-8c521c9",
+  "revision": "8c521c9",
   "readingOrder": [
     "promo.html",
     "zivot_a_dilo_skladatele_foltyna_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:47:58 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639278087
+    "date": "Tue Oct 04 2022 16:35:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901351983
   },
   "documents": [
     {
@@ -328,9 +328,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 129,
+      "words": 127,
       "chars": 874,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "zivot_a_dilo_skladatele_foltyna_018.html",
@@ -348,9 +348,9 @@
   ],
   "totals": {
     "all": {
-      "words": 25817,
+      "words": 25815,
       "chars": 149151,
-      "ideas": 575
+      "ideas": 573
     },
     "chapters": {
       "words": 25679,

@@ -33,7 +33,7 @@ V MKP 2. opravené vydání
 [^21]: Cantus firmus (lat.) – zde chorál. _Pozn. red._  
 [^22]: Rosenkavalier – opera Richarda Strausse (Růžový kavalír). _Pozn. red._  
 [^23]: Apokryfy (řec.) – spisy, které církev nepojímá do kánonu biblických textů; podvržené, nepůvodní dílo. _Pozn. red._  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -41,10 +41,10 @@ Znění tohoto textu vychází z díla [Život a dílo skladatele Foltýna](http
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Karel Čapek: Život a dílo skladatele Foltýna), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
