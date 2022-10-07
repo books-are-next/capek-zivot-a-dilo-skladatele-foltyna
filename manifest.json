@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-9d8e686",
-  "revision": "9d8e686",
+  "identifier": "capek-zivot-a-dilo-skladatele-foltyna-ff5b51a",
+  "revision": "ff5b51a",
   "readingOrder": [
     "promo.html",
     "zivot_a_dilo_skladatele_foltyna_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:48:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923716472
+    "date": "Fri Oct 07 2022 13:49:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150543215
   },
   "documents": [
     {
