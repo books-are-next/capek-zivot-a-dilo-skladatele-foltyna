@@ -33,7 +33,7 @@ V MKP 2. opravené vydání
 [^21]: Cantus firmus (lat.) – zde chorál. _Pozn. red._  
 [^22]: Rosenkavalier – opera Richarda Strausse (Růžový kavalír). _Pozn. red._  
 [^23]: Apokryfy (řec.) – spisy, které církev nepojímá do kánonu biblických textů; podvržené, nepůvodní dílo. _Pozn. red._  
-V MKP 1. elektronické vydání z 7. 10. 2022.
+V MKP 1. elektronické vydání z 10. 10. 2022.
 
 ***
 
